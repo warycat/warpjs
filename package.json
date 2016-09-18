@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/warycat/warpjs.git"
   },
+  "engines": {
+    "node": "6.6.0"
+  },
   "keywords": [
     "vr"
   ],
